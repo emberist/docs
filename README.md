@@ -1,4 +1,4 @@
-# aaa docs.metaplex.com
+# docs.metaplex.com
 
 # Audience
 
@@ -75,5 +75,3 @@
 - [ ] 10 FAQs
 
   - [ ] Some organization here
-
-  # Trigger test
